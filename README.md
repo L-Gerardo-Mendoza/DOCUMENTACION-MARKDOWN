@@ -12,14 +12,14 @@ Documentar el excel
 
 Ejemplo de como documentar el codigo:
 
-⁠ java
+⁠```java
 public class HelloWorld;
 public static void main(string[] args){
   System.out.println("Hello word");
-}
+}```
  ⁠
-⁠ excel
-=TRANSPONER(pagina1!A1:AD30)
+⁠```excel
+=TRANSPONER(pagina1!A1:AD30)```
  ⁠
 
 ejemplo matriz 
